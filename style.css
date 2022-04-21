@@ -676,6 +676,9 @@ footer {
     display: flex;
     justify-content: center;
   }
+  .main-nav-elem.pad{
+      padding: 0;
+  }
   .hover-elems {
     position: unset;
     visibility: visible;
